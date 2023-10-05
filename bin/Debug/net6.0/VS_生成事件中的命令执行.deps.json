@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VS_生成事件中的命令执行/1.0.0": {
+        "runtime": {
+          "VS_生成事件中的命令执行.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VS_生成事件中的命令执行/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

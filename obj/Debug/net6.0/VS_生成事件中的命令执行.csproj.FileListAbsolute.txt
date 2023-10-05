@@ -1,0 +1,15 @@
+D:\C#program\VS_生成事件中的命令执行\bin\Debug\net6.0\VS_生成事件中的命令执行.exe
+D:\C#program\VS_生成事件中的命令执行\bin\Debug\net6.0\VS_生成事件中的命令执行.deps.json
+D:\C#program\VS_生成事件中的命令执行\bin\Debug\net6.0\VS_生成事件中的命令执行.runtimeconfig.json
+D:\C#program\VS_生成事件中的命令执行\bin\Debug\net6.0\VS_生成事件中的命令执行.dll
+D:\C#program\VS_生成事件中的命令执行\bin\Debug\net6.0\VS_生成事件中的命令执行.pdb
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.csproj.AssemblyReference.cache
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.AssemblyInfoInputs.cache
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.AssemblyInfo.cs
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.csproj.CoreCompileInputs.cache
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.dll
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\refint\VS_生成事件中的命令执行.dll
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.pdb
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\VS_生成事件中的命令执行.genruntimeconfig.cache
+D:\C#program\VS_生成事件中的命令执行\obj\Debug\net6.0\ref\VS_生成事件中的命令执行.dll
